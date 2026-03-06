@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 # Privacy Policy Analyzer 🔍
 
 A Chrome extension that analyzes website privacy policies and highlights risky clauses, data sharing practices, and readability level.
